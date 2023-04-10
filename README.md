@@ -62,9 +62,6 @@
 ### Prerequisites
 
 ```sh
- gem install rails
-
-```sh
   cd my-folder
   git clone https://github.com/kennankole/RoR-Hello-world.git
 ```
@@ -119,7 +116,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kennankole/consumer-app/issues).
+Feel free to check the [issues page](https://github.com/kennankole/RoR-Hello-world/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
