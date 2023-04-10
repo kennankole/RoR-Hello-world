@@ -25,8 +25,7 @@
 
 # 📖 [Ruby-On-Rails-Hello-world] <a name="about-project"></a>
 
-**[Ruby-On-Rails-Hello-world]** is a mobile web application for tracking 
-consumer expenses on shopping done online
+**[Ruby-On-Rails-Hello-world]** is a rails API-only application
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,8 +50,8 @@ consumer expenses on shopping done online
 
 ### Key Features <a name="key-features"></a>
 
-- **[Create a category]**
-- **[Add transaction to category]**
+- **[Post to an endpoint]**
+- **[Delete from an endpoint]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,14 +66,14 @@ consumer expenses on shopping done online
 
 ```sh
   cd my-folder
-  git clone https://github.com/kennankole/consumer-app.git
+  git clone https://github.com/kennankole/RoR-Hello-world.git
 ```
 
 ### Install
 
 ```sh
-  cd my-project
-  gem install
+  cd RoR-Hello-world
+  bundle install
 ```
 
 ### Usage
@@ -109,8 +108,8 @@ consumer expenses on shopping done online
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Delete category]**
-- [ ] **[Delete transaction]**
+- [ ] **[Create Delete endpoint]**
+- [ ] **[Create update endpoint]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,7 +135,7 @@ If you like this project kindly give it a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Gregoire Vella on Behance](https://www.behance.net/gregoirevella)  the author of [the original design](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=)
+I would like to thank the Microverse tutorials
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
